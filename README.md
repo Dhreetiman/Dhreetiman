@@ -1,6 +1,6 @@
 ![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630)
 <h1 align="center">Hi 👋, I'm Dhreetiman</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhreetiman&label=Profile%20views&color=0e75b6&style=flat" alt="dhreetiman" /> </p>
