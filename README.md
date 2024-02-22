@@ -16,7 +16,7 @@
     <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://linkedin.com/in/dhreetiman-prasad-19a258211" target="blank"><img align="center"
-                src="https://www.svgrepo.com/show/922/linkedin.svg"
+                src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
                 alt="dhreetiman-prasad-19a258211" height="30" width="40" /></a>
         <a href="https://www.hackerrank.com/dhreetiman09999" target="blank"><img align="center"
                 src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"
