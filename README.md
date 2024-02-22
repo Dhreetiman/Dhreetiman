@@ -65,8 +65,10 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
                 alt="react" width="40" height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer">
             <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/redis-logo.png"
-                alt="redis" width="40" height="40" /> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank"
+                alt="redis" width="40" height="40" /> </a> <a href="https://seaborn.pydata.org/" target="_blank"
             rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"
+                width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank"
+            rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode"
                 width="40" height="40" /> </a> </p>
 
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhreetiman&" alt="dhreetiman" />
