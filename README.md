@@ -66,10 +66,10 @@
                 alt="mongodb" width="60" height="60" /> </a> <a href="https://www.mysql.com/" target="_blank"
             rel="noreferrer"> <img
                 src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
-                alt="mysql" width="70" height="60" /> </a> <a href="https://nodejs.org" target="_blank"
+                alt="mysql" width="60" height="60" /> </a> <a href="https://nodejs.org" target="_blank"
             rel="noreferrer"> <img
                 src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"
-                alt="nodejs" width="50" height="50" /> </a> <a href="https://pandas.pydata.org/" target="_blank"
+                alt="nodejs" width="70" height="70" /> </a> <a href="https://pandas.pydata.org/" target="_blank"
             rel="noreferrer"> <img
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"
                 alt="pandas" width="50" height="50" /> </a> <a href="https://postman.com" target="_blank"
