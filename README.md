@@ -60,12 +60,12 @@
                 alt="html5" width="80" height="70" /> </a> <a
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                 src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
-                alt="javascript" width="50" height="50" /> </a> <a href="https://www.mongodb.com/" target="_blank"
+                alt="javascript" width="70" height="70" /> </a> <a href="https://www.mongodb.com/" target="_blank"
             rel="noreferrer"> <img
                 src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg2Njc1ODgsIm5iZiI6MTcwODY2NzI4OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIzVDA1NDgwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkMTAxNWQzYjFiODFlNjJiMTE1NTJjYzllOTRkNWM0ZDJhZTFjMzg4MTJlYmEyOTNmMjc5NjFiMjNlMzBiNmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NAokuvqATCZi-G_NUoh9Cjl5LTNzemWy9qQ5IQy6U18"
                 alt="mongodb" width="60" height="60" /> </a> <a href="https://www.mysql.com/" target="_blank"
             rel="noreferrer"> <img
-                src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png"
+                src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
                 alt="mysql" width="70" height="60" /> </a> <a href="https://nodejs.org" target="_blank"
             rel="noreferrer"> <img
                 src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"
