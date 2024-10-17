@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhreetiman&label=Profile%20views&color=0e75b6&style=flat" alt="dhreetiman" /> </p>
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **NestJS & GraphQL**
 
 - 💬 Ask me about **NodeJS**
 
