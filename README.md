@@ -89,4 +89,4 @@
             rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github"
                 width="50" height="50" /> </a> </p>
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhreetiman&" alt="dhreetiman" /> </p>
